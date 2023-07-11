@@ -17,11 +17,12 @@
                     <a href="/contack1" class="mr-4 hover:underline md:mr-6">contack</a>
                 </li>
                 <li>
-                    <a href="/galery" class="mr-4 hover:underline md:mr-6 ">galery</a>
+                    <a href="/buku/perpustakaan" class="mr-4 hover:underline md:mr-6 ">perpustakaan</a>
                 </li>
                 <li>
                     <a href="/buku" class="hover:underline">Rak Buku</a>
-                </li>
+                </li> 
+                
                 
             </ul>
         </div>
