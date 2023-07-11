@@ -79,6 +79,9 @@ export default {
 </script>
 
 <style>
+*{
+  background-color: rgb(255, 255, 250);
+}
 .grid-cols-5 {
   grid-template-columns: repeat(5, minmax(0, 1fr));
 }
